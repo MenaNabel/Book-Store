@@ -1,0 +1,9 @@
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.input.cache
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.TagHelpers.output.cache
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
+C:\Users\Mina\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.RazorCoreGenerate.cache
