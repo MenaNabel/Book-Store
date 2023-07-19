@@ -38,7 +38,7 @@ namespace BookStore.Controllers
 
         // POST: Author/Create
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        [ValidateAntiForgeryToken]  
         public ActionResult Create(Author newAuthor)
         {
             try
